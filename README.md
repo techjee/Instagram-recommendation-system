@@ -57,11 +57,13 @@ This project implements a recommendation system that suggests relevant content o
 ---
 
 ## 📂 Project Structure
+```
 instagram-recommendation-system/
 │── notebook/
 │ └── instagram-recommendation-system.ipynb # Core notebook containing data processing, analysis, and recommendation logic
 │── README.md # Overview, methodology, and usage instructions
 │── requirements.txt # List of required Python libraries
+```
 
 
 ---
