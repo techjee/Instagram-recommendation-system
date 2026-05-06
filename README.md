@@ -75,10 +75,10 @@ instagram-recommendation-system/
      git clone https://github.com/techjee/Instagram-recommendation-system.git
 
 2. Navigate to the project folder
-     cd instagram-recommendation-system
+     ```cd instagram-recommendation-system```
 
 3. Install dependencies
-     pip install -r requirements.txt
+   ```  pip install -r requirements.txt```
 
 4. Open the notebook
     Run using Jupyter Notebook or Google Colab
